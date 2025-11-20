@@ -1,4 +1,4 @@
-# 🧩 ** Laboratorio 07  **
+# 🧩 Laboratorio 07
 
 ## 🏫 Universidad Nacional de San Agustín  
 **Facultad de Ingeniería de Producción y Servicios**  
